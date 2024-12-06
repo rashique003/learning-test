@@ -5,7 +5,7 @@
   <body>
     <h1>Access my first Site </h1>
     <a href = "https://rashique003.github.io/learning-test/site/">Click here</a><br><br>
-    <h2><ul>Notes</ul></h2> <br>
+    <h2><u>Notes</u></h2>
   </body>
 </html>
 Here’s a detailed, step-by-step guide to setting up and developing the Java Spring Boot backend with Selenium and Cucumber BDD in Eclipse and integrating it with a React.js frontend:
