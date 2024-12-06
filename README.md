@@ -8,7 +8,7 @@
     <h2><u>Notes</u></h2>
   </body>
 </html>
-To ensure a robust and efficient implementation of the Java Spring Boot backend with Selenium BDD and React frontend, here’s a refined step-by-step process using best practices. This involves structured project organization, dynamic configurations, detailed error handling, and extensibility for future needs.
+<pre>To ensure a robust and efficient implementation of the Java Spring Boot backend with Selenium BDD and React frontend, here’s a refined step-by-step process using best practices. This involves structured project organization, dynamic configurations, detailed error handling, and extensibility for future needs.
 
 
 ---
@@ -333,4 +333,4 @@ Click Run Tests. Observe the backend API logs in Eclipse and the result in the R
 ---
 
 This approach ensures a clean, scalable, and maintainable solution. Let me know if you'd like assistance with any step!
-
+</pre>
