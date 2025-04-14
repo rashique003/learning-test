@@ -3,6 +3,37 @@
     <title>My first site</title>
   </head>
   <body>
+<div style="border: 2px solid orange; border-radius: 10px; padding: 20px; font-family: Arial, sans-serif; max-width: 400px;">
+  <h2 style="color: #00695c;">Welcome to the CareCredit health & wellness family.</h2>
+  
+  <div style="background-color: #00796b; color: white; padding: 10px; margin-top: 10px;">
+    Use your card at a provider with account lookup
+  </div>
+
+  <ul style="margin-top: 10px;">
+    <li>Use your CareCredit Rewards Mastercard today at hundreds of thousands of providers in the <span style="color: green;">CareCredit Network</span>.</li>
+    <li>Present one form of government-issued ID so the provider can look up your account number.</li>
+  </ul>
+
+  <div style="background-color: #00796b; color: white; padding: 10px; margin-top: 20px;">
+    Check your mailbox
+  </div>
+
+  <ul style="margin-top: 10px;">
+    <li>Your card will arrive in the mail within 7 to 10 business days.</li>
+    <li>Activate your card as soon as you receive it to continue to use it in the CareCredit Network and anywhere Mastercard is accepted.</li>
+  </ul>
+
+  <div style="background-color: #004d40; color: white; padding: 10px; margin-top: 20px;">
+    Partner offer
+  </div>
+
+  <p style="margin-top: 10px;">
+    You're approved, now learn more about <span style="color: green;">Pets Best</span> pet insurance. Get a 5% discount today.*
+  </p>
+
+  <p style="font-size: 12px; color: gray;">*Not available in AK, HI, or PR. <a href="#" style="color: green;">See details</a>.</p>
+</div>
     <h1>Access my first Site </h1>
     <a href = "https://rashique003.github.io/learning-test/site/">Click here</a><br><br>
     <h2><u>Notes</u></h2>
